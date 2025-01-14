@@ -10,7 +10,11 @@ and the content smoothly scrolls as the user drags."
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/iamsandeshpumarai/Task-A.git
-   
+
+Live demo Link
+https://task-5cca5ucea-rawones-projects.vercel.app/
+
+Live demo Link
 Navigate into the Project Folder
 cd Task-A
 Open the index.html file in a browser of your choice to view the project.
@@ -32,4 +36,6 @@ Implement responsiveness for different screen sizes.
 
 Time Spent on the Project
 Time spent: 2 hours
+
+
 
